@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17941908627",
+    "project_id": "guzoauth",
+    "storage_bucket": "guzoauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17941908627:android:43225c95cb3c28ec49d166",
+        "android_client_info": {
+          "package_name": "www.akele.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17941908627-r0kr09p9tq7k557cokt7ani2rj1c11jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2GXuUKJFkcWiRhkSRK0LddLUvdTu-HY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17941908627-r0kr09p9tq7k557cokt7ani2rj1c11jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
